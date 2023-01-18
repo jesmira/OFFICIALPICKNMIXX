@@ -182,7 +182,7 @@ div.about {
 /* HERO IMAGE*/
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("file:///C:/Users/user/Desktop/PICKNMIX/asset/image/gradiant1.png");
+    url("gradiant1.png");
   height: 25%;
   background-position: center;
   background-repeat: no-repeat;
