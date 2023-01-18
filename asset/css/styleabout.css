@@ -619,7 +619,7 @@ div.halalcompliance {
   color: #444;
   cursor: pointer;
   padding: 20px;
-  width: 84.6%;
+  width: 84.2%;
   border: none;
   text-align: center;
   outline: none;
@@ -629,13 +629,13 @@ div.halalcompliance {
 
 .active,
 .accordion:hover {
-  background-color: #ccc;
+  background-color: rgb(162, 158, 158);
 }
 
 .panel {
-  padding: 0 18px;
+  padding: 1 18px;
   display: none;
-  background-color: white;
+  background-color: rgb(6, 6, 6);
   overflow: hidden;
 }
 
