@@ -458,14 +458,14 @@ color:black;
 .top-right-four {
   position: absolute;
   top: 278%;
-  right: 30%;
+  right: 25%;
   font-size: 250%;
 color:black;
 }
 
 .bottom-right-four {
   position: absolute;
-  bottom: -222%;
+  bottom: -212%;
   right: 9%;
   padding-left: 50%;
   text-align: justify;
