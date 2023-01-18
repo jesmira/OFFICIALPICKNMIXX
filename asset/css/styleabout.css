@@ -432,10 +432,10 @@ color:black;
 
 .top-right-two {
   position: absolute;
-  top: 120%;
-  right: 40%;
+  top: 50%;
+  right: 20%;
   font-size: 250%;
-color:black;
+  color:black;
 }
 
 .bottom-right-two {
